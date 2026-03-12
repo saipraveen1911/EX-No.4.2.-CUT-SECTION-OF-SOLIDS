@@ -43,6 +43,9 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
+<img width="1918" height="1017" alt="Edm Experiment - 8  4 2" src="https://github.com/user-attachments/assets/ddbbd4f6-a79e-4908-91e1-9f4564a69809" />
+
+
 ## RESULT:
 Thus, the cut section for solid model is created.
 
